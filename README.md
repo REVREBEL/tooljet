@@ -140,3 +140,4 @@ Kindly read our [Contributing Guide](CONTRIBUTING.md) to learn and understand ab
 
 ## License
 ToolJet © 2022, ToolJet Solutions Inc - Released under the GNU Affero General Public License v3.0.
+# tooljet
